@@ -1,22 +1,22 @@
 {
-  "name": "Bob",
-  "lastname": "Bobson",
+  "name": "Tim",
+  "lastname": "Larsson",
   "age": 1,
   "address": [{
-    "street": "Klostergatan",
+    "street": "Svänggatan",
     "streetnumber": "6",
-    "city": "Stockholm",
+    "city": "Karlskrona",
     "state": "Texas",
     "country": "USA"
   }],
   "contact": [{
-    "phone": "hem",
+    "phone": "0734012373",
     "mobile": "mobil",
-    "mail": "bob@bobsob.bob",
-    "git": "github url",
-    "linkedin": "linkedin user",
+    "mail": "tim93larsson@gmail.com",
+    "git": "Tim's Git",
+    "linkedin": "Tim Larsson",
     "facebook": "facebook user",
-    "stackoverflow": "stack user"
+    "stackoverflow": "Tims's Stack"
   }],
   "education": [
     {
@@ -28,41 +28,42 @@
     "degree": "failed"
   },
     {
-      "school": "Blekinge Institute of Technology",
-      "city": "karlskrona",
-      "programme": "Master of Science in Industrial Engineering and Management",
-      "startdate": "2014",
-      "enddate": "2019",
+      "school": "Experis Academy",
+      "city": "Växjö",
+      "programme": "Full Stack development",
+      "startdate": "2019",
+      "enddate": "2020",
       "degree": "failed"
     }
   ],
   "experience":
     [
       {
-        "title": "work",
-        "company": "company name",
-        "location": "Växjö",
-        "role": "did computer stuff",
-        "expstartdate": "0002",
-        "expenddate": "0003",
+        "title": "Product Manager (IoT)",
+        "company": "Contribe",
+        "location": "Karlskrona",
+        "role": "Product development; defines product and service strategy and roadmap together with main stakeholders to ensure customer-driven development",
+        "expstartdate": "2015",
+        "expenddate": "2018",
         "tasks": [
           {
-            "developer": "java",
-            "description": "did nothing"
+            "developer": "Responsible for establishing and maintainging way of working methods for collecting and managing needed changes, adaptations and new services to main suppliers",
+            "description": "Support Sales in customer meeting with product and services discussions."
           }
         ]
       },
       {
-        "title": "work",
-        "company": "company name",
+        "title": "Sigma IT Consulting",
+        "company": "Sigma",
         "location": "Växjö",
-        "role": "did computer stuff",
-        "expstartdate": "0002",
-        "expenddate": "0003",
+        "role": "IoT Support specialise within support team at Telenor.",
+        "expstartdate": "2018",
+        "expenddate": "2019",
         "tasks": [
           {
-            "developer": "java",
-            "description": "did nothing"
+            "developer": "Delivering high technical support",
+            "description": "Monitoring the stability of the company's platform",
+            "desk": "Proactively detecting potential problems in Roaming Operators and networks, by using various monitoring and big data analytics tools"
           }
         ]
       }
@@ -101,5 +102,5 @@
     "email": "urban@theboss.com"
   }],
   "imageurl": "",
-  "profile": "wall of text here..."
+  "profile": "My name is Tim Larsson and I have studied Master of Science in Industrial Engineering and Management with specialization in Mechanical Engineering and Sustainable Product Innovation. After graduation, I have worked as Product Manager at Semcon, which is also my current work. My education has created conditions for being able to adapt, integrate and structure both internal and external resources and skills to achieve results. As a Product Manager, I have transformed my theoretical knowledge to experience that is needed to be able to create competitive advantages in rapidly changing environments. "
 }
